@@ -1,1 +1,5 @@
 2023-01-16 14:10:16,744 :INFO : test_add_items_to_cart :adding item to cart
+2023-01-16 23:38:46,177 :INFO : test_e2e :sorting inventory Z to A
+2023-01-16 23:38:46,874 :INFO : test_e2e :Adding backpack into cart
+2023-01-16 23:38:47,311 :INFO : test_e2e :Entering customer's information
+2023-01-16 23:38:47,935 :INFO : test_e2e :Verifying that order was submitted successfully
